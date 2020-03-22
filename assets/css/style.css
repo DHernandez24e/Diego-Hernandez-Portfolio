@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cloudy: #aca59f;
+    --greyer: rgb(73, 73, 73);
+    --purp: rgb(104, 4, 104);
+    --green: green;
+}
+
