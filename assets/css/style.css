@@ -148,13 +148,15 @@ section {
     background-size: cover;
     align-items: baseline;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .grid-2 {
     grid-column: -1/ -4;
     grid-row: 1/ 5;
-    background-image: url(../images/coming-soon.jpg);
+    background-image: url(../images/searchthesound.png);
     background-size: cover;
+    font-size: 20px;
 }
 
 .grid-3 {
@@ -176,6 +178,12 @@ section {
     grid-row: -1/ -4;
     background-image: url(../images/coming-soon.jpg);
     background-size: cover;
+}
+
+.link-text {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
 
 footer {
