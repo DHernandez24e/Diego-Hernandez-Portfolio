@@ -144,7 +144,7 @@ section {
 .grid-1 {
     grid-row: 1/ span 8;
     grid-column: 1/ span 8;
-    background-image: url(../images/run-buddy-img.JPG);
+    background-image: url(../images/tech_stop_n_shop.JPG);
     background-size: cover;
     align-items: baseline;
     font-size: 20px;
@@ -162,7 +162,7 @@ section {
 .grid-3 {
     grid-column: -1/ -4;
     grid-row: 6/ 10;
-    background-image: url(../images/coming-soon.jpg);
+    background-image: url(../images/run-buddy-img.JPG);
     background-size: cover;
 }
 
